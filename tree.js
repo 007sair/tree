@@ -1,6 +1,6 @@
 ;$(function() {
 
-    //json tree 结构固定逻辑
+    //json tree 结构固定
     var json_tree = [
         {
             text: 'A',
